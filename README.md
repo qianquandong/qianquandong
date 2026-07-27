@@ -4,7 +4,7 @@ Industrial engineer at a chip company, moving into business planning. I don't wr
 
 Everything here is either something I run every day, or something I taught a room of people in Dallas to run. I host free AI workshops here in person.
 
-![A room of people at a free AI workshop in Dallas](workshop-dallas.jpg)
+![A room of people at a free AI workshop in Dallas](https://raw.githubusercontent.com/qianquandong/qianquandong/main/workshop-dallas.jpg)
 
 *One of the free AI workshops I run in Dallas. July 2026.*
 
