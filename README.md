@@ -2,7 +2,7 @@
 
 Industrial engineer at a chip company, moving into business planning. I don't write code. I write plain-English playbooks and let coding agents run them.
 
-Everything here is either something I run every day, or something I sold to a real business in Dallas.
+Everything here is either something I run every day, or something I taught a room of people in Dallas to run. I host free AI workshops here in person.
 
 ### Start here
 
